@@ -1,6 +1,6 @@
-# 🌳 TreeEx
+# 🌳 TreeVisualizer
 
-TreeEx is a PowerShell script that generates a tree structure of a specified directory, similar to the `tree /f` command in the Windows terminal. It includes features to blacklist specific directories and files, as well as partially blacklist directories to display only their names without their contents.
+TreeVisualizer is a PowerShell script that generates a tree structure of a specified directory, similar to the `tree /f` command in the Windows terminal. It includes features to blacklist specific directories and files, as well as partially blacklist directories to display only their names without their contents.
 
 ## ✨ Features
 
@@ -27,8 +27,8 @@ $Config = @{
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/TreeEx.git
-cd TreeEx
+git clone https://github.com/yourusername/TreeVisualizer.git
+cd TreeVisualizer
 ```
 
 2. Edit the configuration:
